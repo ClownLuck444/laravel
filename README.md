@@ -38,7 +38,7 @@ Este proyecto es un sistema backend desarrollado con **Laravel**, orientado a la
 
 1. **Clonar el repositorio**
 
-git clone https://github.com/tu_usuario/minimarket-laravel.git
+git clone https://github.com/ClownLuck444/laravel.git
 cd minimarket-laravel
 
 2. **Instalar dependencias**
